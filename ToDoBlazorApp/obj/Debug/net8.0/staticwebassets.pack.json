@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/katherinehambley/Projects/ToDoBlazorApp/ToDoBlazorApp/obj/Debug/net8.0/scopedcss/projectbundle/ToDoBlazorApp.bundle.scp.css",
+      "PackagePath": "staticwebassets/ToDoBlazorApp.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/katherinehambley/Projects/ToDoBlazorApp/ToDoBlazorApp/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/katherinehambley/Projects/ToDoBlazorApp/ToDoBlazorApp/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/katherinehambley/Projects/ToDoBlazorApp/ToDoBlazorApp/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/katherinehambley/Projects/ToDoBlazorApp/ToDoBlazorApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ToDoBlazorApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ToDoBlazorApp.props",
+      "PackagePath": "build\\ToDoBlazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ToDoBlazorApp.props",
+      "PackagePath": "buildMultiTargeting\\ToDoBlazorApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ToDoBlazorApp.props",
+      "PackagePath": "buildTransitive\\ToDoBlazorApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
